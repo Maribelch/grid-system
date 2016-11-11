@@ -1,5 +1,4 @@
-/* Inserta tu cĆ³digo aqui */
-/* GLOBAL */
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -14,7 +13,6 @@
 	text-align: right;
 }
 
-/* Grid system */
 
 .container {
 	width: 960px;
@@ -149,7 +147,7 @@ header nav ul li a{
     
 }
 
-
+<!--------fin--del--encavezado--->
 .seccion1{
     background: #eeeeee;
     border-bottom: 2px solid #b5b5b5;
